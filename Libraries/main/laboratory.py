@@ -102,7 +102,6 @@ def climas(a):
                         else:
                             if ultimateN>ultimateG and ultimateN>ultimateS:
                                 print("En el Nariño se registro la temperatura maxima en: ",max(narino, key=narino.get),"con: ", max(narino.values()),"°C")
-
     b = input("-Quiere continuar?, Si/No: ")
     while b!="No":
          a = input("-Ingrese un departamento entre\n-Santander\n-Nariño\n-Guajira\n-O elegirlo a nivel nacional\n:")

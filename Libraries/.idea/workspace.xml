@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a2bfba67-7284-454d-947b-17c99784ec08" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/test_temperature_methods.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/test_temperature_methods.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main/laboratory.py" beforeDir="false" afterPath="$PROJECT_DIR$/main/laboratory.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -36,11 +35,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/main/laboratory.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="22" column="43" selection-start-line="22" selection-start-column="43" selection-end-line="22" selection-end-column="43" />
+            <state relative-caret-position="379">
+              <caret line="103" column="155" selection-start-line="103" selection-start-column="155" selection-end-line="103" selection-end-column="155" />
             </state>
           </provider>
         </entry>
@@ -72,11 +71,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test/test_temperature_methods.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret selection-end-line="27" />
+            <state relative-caret-position="459">
+              <caret line="27" lean-forward="true" selection-end-line="27" />
               <folding>
                 <element signature="e#0#15#0" expanded="true" />
               </folding>
@@ -110,9 +109,9 @@
         <option value="$PROJECT_DIR$/main/index.py" />
         <option value="$PROJECT_DIR$/custom_functions/student_grades_methods.py" />
         <option value="$APPLICATION_CONFIG_DIR$/scratches/pruieba de juanpa.py" />
-        <option value="$PROJECT_DIR$/main/laboratory.py" />
         <option value="$PROJECT_DIR$/custom_functions/temperature_methods.py" />
         <option value="$PROJECT_DIR$/test/test_temperature_methods.py" />
+        <option value="$PROJECT_DIR$/main/laboratory.py" />
       </list>
     </option>
   </component>
@@ -295,7 +294,7 @@
       <option name="presentableId" value="Default" />
       <updated>1554300900612</updated>
       <workItem from="1555452303395" duration="5746000" />
-      <workItem from="1555539739973" duration="2004000" />
+      <workItem from="1555539739973" duration="2044000" />
     </task>
     <servers />
   </component>
@@ -332,7 +331,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7750000" />
+    <option name="totallyTimeSpent" value="7790000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
@@ -445,13 +444,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/main/laboratory.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="22" column="43" selection-start-line="22" selection-start-column="43" selection-end-line="22" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/custom_functions/temperature_methods.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
@@ -461,11 +453,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/test/test_temperature_methods.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="27" />
+        <state relative-caret-position="459">
+          <caret line="27" lean-forward="true" selection-end-line="27" />
           <folding>
             <element signature="e#0#15#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main/laboratory.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="379">
+          <caret line="103" column="155" selection-start-line="103" selection-start-column="155" selection-end-line="103" selection-end-column="155" />
         </state>
       </provider>
     </entry>
