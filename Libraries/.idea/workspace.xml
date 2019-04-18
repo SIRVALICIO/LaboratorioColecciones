@@ -4,7 +4,10 @@
     <bookmark url="file://$PROJECT_DIR$/custom_functions/student_grades_methods.py" description="return final_grade" line="36" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a2bfba67-7284-454d-947b-17c99784ec08" name="Default Changelist" comment="" />
+    <list default="true" id="a2bfba67-7284-454d-947b-17c99784ec08" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/test_temperature_methods.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/test_temperature_methods.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -12,30 +15,32 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/Libraries$Unittests_for_test_temperature_methods_TestCollectionMethods_test_DepartamentMaximus.coverage" NAME="Unittests for test_temperature_methods.TestCollectionMethods.test_DepartamentMaximus Coverage Results" MODIFIED="1555541060078" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
     <SUITE FILE_PATH="coverage/Libraries$Unittests_for_test_collection_methods_TestCollectionMethods_test_calculate_final_grade.coverage" NAME="Unittests for test_collection_methods.TestCollectionMethods.test_calculate_final_grade Coverage Results" MODIFIED="1554512677980" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
-    <SUITE FILE_PATH="coverage/Libraries$laboratory.coverage" NAME="laboratory Coverage Results" MODIFIED="1555461364536" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/main" />
+    <SUITE FILE_PATH="coverage/Libraries$laboratory.coverage" NAME="laboratory Coverage Results" MODIFIED="1555540512970" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/main" />
     <SUITE FILE_PATH="coverage/Libraries$Unittests_for_test_string_methods_TestStringMethods_test_greater_than.coverage" NAME="Unittests for test_string_methods.TestStringMethods.test_greater_than Coverage Results" MODIFIED="1554512150675" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
     <SUITE FILE_PATH="coverage/Libraries$Unittests_for_test_temperature_methods_TestCollectionMethods_test_calculate_best_grade.coverage" NAME="Unittests for test_temperature_methods.TestCollectionMethods.test_calculate_best_grade Coverage Results" MODIFIED="1555454122477" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
     <SUITE FILE_PATH="coverage/Libraries$pruieba_de_juanpa.coverage" NAME="pruieba de juanpa Coverage Results" MODIFIED="1555461064460" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$APPLICATION_CONFIG_DIR$/scratches" />
     <SUITE FILE_PATH="coverage/Libraries$Unittests_for_test_collection_methods_TestCollectionMethods_test_calculate_final_grade_empty.coverage" NAME="Unittests for test_collection_methods.TestCollectionMethods.test_calculate_final_grade_empty Coverage Results" MODIFIED="1554482917360" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
     <SUITE FILE_PATH="coverage/Libraries$Unittests_in_unit_test_py.coverage" NAME="Unittests in test_string_methods.py Coverage Results" MODIFIED="1554483753465" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
-    <SUITE FILE_PATH="coverage/Libraries$Unittests_for_test_temperature_methods_TestCollectionMethods_test_Departamentprom.coverage" NAME="Unittests for test_temperature_methods.TestCollectionMethods.test_Departamentprom Coverage Results" MODIFIED="1555458842303" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
+    <SUITE FILE_PATH="coverage/Libraries$Unittests_for_test_temperature_methods_TestCollectionMethods_test_Departamentprom.coverage" NAME="Unittests for test_temperature_methods.TestCollectionMethods.test_Departamentprom Coverage Results" MODIFIED="1555540916535" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
     <SUITE FILE_PATH="coverage/Libraries$Unittests_in_test_collection_methods_py.coverage" NAME="Unittests in test_collection_methods.py Coverage Results" MODIFIED="1554483583425" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
+    <SUITE FILE_PATH="coverage/Libraries$Unittests_for_test_temperature_methods_TestCollectionMethods_test_DepartamentMax.coverage" NAME="Unittests for test_temperature_methods.TestCollectionMethods.test_DepartamentMax Coverage Results" MODIFIED="1555541023676" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
     <SUITE FILE_PATH="coverage/Libraries$Unittests_for_test_student_grades_methods_TestCollectionMethods_test_calculate_best_grade.coverage" NAME="Unittests for test_student_grades_methods.TestCollectionMethods.test_calculate_best_grade Coverage Results" MODIFIED="1555454150556" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
     <SUITE FILE_PATH="coverage/Libraries$index.coverage" NAME="index Coverage Results" MODIFIED="1554524481984" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/main" />
     <SUITE FILE_PATH="coverage/Libraries$Unittests_for_test_string_methods_TestStringMethods_test_upper.coverage" NAME="Unittests for test_string_methods.TestStringMethods.test_upper Coverage Results" MODIFIED="1554483748511" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
     <SUITE FILE_PATH="coverage/Libraries$Unittests_for_test_string_methods_TestStringMethods_test_split.coverage" NAME="Unittests for test_string_methods.TestStringMethods.test_split Coverage Results" MODIFIED="1554512088475" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
-    <SUITE FILE_PATH="coverage/Libraries$Unittests_for_test_temperature_methods_TestCollectionMethods_test_DepartamentDes.coverage" NAME="Unittests for test_temperature_methods.TestCollectionMethods.test_DepartamentDes Coverage Results" MODIFIED="1555459026340" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
+    <SUITE FILE_PATH="coverage/Libraries$Unittests_for_test_temperature_methods_TestCollectionMethods_test_DepartamentDes.coverage" NAME="Unittests for test_temperature_methods.TestCollectionMethods.test_DepartamentDes Coverage Results" MODIFIED="1555541117687" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
     <SUITE FILE_PATH="coverage/Libraries$Unittests_for_test_student_grades_methods_TestCollectionMethods_test_remove_worst_grade.coverage" NAME="Unittests for test_student_grades_methods.TestCollectionMethods.test_remove_worst_grade Coverage Results" MODIFIED="1554522486876" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
     <SUITE FILE_PATH="coverage/Libraries$Unittests_for_test_string_methods_TestStringMethods_test_list_equals.coverage" NAME="Unittests for test_string_methods.TestStringMethods.test_list_equals Coverage Results" MODIFIED="1554512399519" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/main/laboratory.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="40">
-              <caret line="105" column="44" lean-forward="true" selection-start-line="105" selection-start-column="44" selection-end-line="105" selection-end-column="44" />
+            <state relative-caret-position="323">
+              <caret line="22" column="43" lean-forward="true" selection-start-line="22" selection-start-column="43" selection-end-line="22" selection-end-column="43" />
             </state>
           </provider>
         </entry>
@@ -43,20 +48,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/custom_functions/temperature_methods.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="22" lean-forward="true" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test/test_temperature_methods.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="442">
-              <caret line="26" column="19" lean-forward="true" selection-start-line="26" selection-start-column="19" selection-end-line="26" selection-end-column="19" />
-              <folding>
-                <element signature="e#0#15#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="102">
+              <caret line="6" column="19" lean-forward="true" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -65,7 +58,7 @@
         <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/pruieba de juanpa.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="2550">
-              <caret line="150" lean-forward="true" selection-start-line="150" selection-end-line="150" />
+              <caret line="150" selection-start-line="150" selection-end-line="150" />
             </state>
           </provider>
         </entry>
@@ -74,7 +67,19 @@
         <entry file="file://$PROJECT_DIR$/test/test_student_grades_methods.py">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret column="8" lean-forward="true" selection-start-column="8" selection-end-line="2" />
+              <caret column="8" selection-start-column="8" selection-end-line="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/test/test_temperature_methods.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-line="27" />
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -104,10 +109,10 @@
         <option value="$PROJECT_DIR$/test/test_string_methods.py" />
         <option value="$PROJECT_DIR$/main/index.py" />
         <option value="$PROJECT_DIR$/custom_functions/student_grades_methods.py" />
-        <option value="$PROJECT_DIR$/main/laboratory.py" />
-        <option value="$PROJECT_DIR$/test/test_temperature_methods.py" />
-        <option value="$PROJECT_DIR$/custom_functions/temperature_methods.py" />
         <option value="$APPLICATION_CONFIG_DIR$/scratches/pruieba de juanpa.py" />
+        <option value="$PROJECT_DIR$/main/laboratory.py" />
+        <option value="$PROJECT_DIR$/custom_functions/temperature_methods.py" />
+        <option value="$PROJECT_DIR$/test/test_temperature_methods.py" />
       </list>
     </option>
   </component>
@@ -123,7 +128,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -159,6 +163,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -179,7 +184,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.laboratory">
+  <component name="RunManager" selected="Python tests.Unittests for test_temperature_methods.TestCollectionMethods.test_DepartamentDes">
     <configuration name="laboratory" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Libraries" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -202,43 +207,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="pruieba de juanpa" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Libraries" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$APPLICATION_CONFIG_DIR$/scratches" />
-      <option name="IS_MODULE_SDK" value="false" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$APPLICATION_CONFIG_DIR$/scratches/pruieba de juanpa.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Unittests for test_student_grades_methods.TestCollectionMethods.test_calculate_best_grade" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
-      <module name="Libraries" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_student_grades_methods.TestCollectionMethods.test_calculate_best_grade&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method v="2" />
-    </configuration>
     <configuration name="Unittests for test_temperature_methods.TestCollectionMethods.test_DepartamentDes" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
       <module name="Libraries" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -251,6 +219,36 @@
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
       <option name="_new_target" value="&quot;test_temperature_methods.TestCollectionMethods.test_DepartamentDes&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for test_temperature_methods.TestCollectionMethods.test_DepartamentMax" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="Libraries" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_temperature_methods.TestCollectionMethods.test_DepartamentMax&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for test_temperature_methods.TestCollectionMethods.test_DepartamentMaximus" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="Libraries" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_temperature_methods.TestCollectionMethods.test_DepartamentMaximus&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
@@ -270,19 +268,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python tests.Unittests for test_student_grades_methods.TestCollectionMethods.test_calculate_best_grade" />
-      <item itemvalue="Python tests.Unittests for test_temperature_methods.TestCollectionMethods.test_Departamentprom" />
-      <item itemvalue="Python tests.Unittests for test_temperature_methods.TestCollectionMethods.test_DepartamentDes" />
-      <item itemvalue="Python.pruieba de juanpa" />
       <item itemvalue="Python.laboratory" />
+      <item itemvalue="Python tests.Unittests for test_temperature_methods.TestCollectionMethods.test_Departamentprom" />
+      <item itemvalue="Python tests.Unittests for test_temperature_methods.TestCollectionMethods.test_DepartamentMax" />
+      <item itemvalue="Python tests.Unittests for test_temperature_methods.TestCollectionMethods.test_DepartamentMaximus" />
+      <item itemvalue="Python tests.Unittests for test_temperature_methods.TestCollectionMethods.test_DepartamentDes" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.laboratory" />
-        <item itemvalue="Python.pruieba de juanpa" />
         <item itemvalue="Python tests.Unittests for test_temperature_methods.TestCollectionMethods.test_DepartamentDes" />
+        <item itemvalue="Python tests.Unittests for test_temperature_methods.TestCollectionMethods.test_DepartamentMaximus" />
+        <item itemvalue="Python tests.Unittests for test_temperature_methods.TestCollectionMethods.test_DepartamentMax" />
         <item itemvalue="Python tests.Unittests for test_temperature_methods.TestCollectionMethods.test_Departamentprom" />
-        <item itemvalue="Python tests.Unittests for test_student_grades_methods.TestCollectionMethods.test_calculate_best_grade" />
+        <item itemvalue="Python.laboratory" />
       </list>
     </recent_temporary>
   </component>
@@ -296,29 +294,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1554300900612</updated>
-      <workItem from="1555452303395" duration="5199000" />
+      <workItem from="1555452303395" duration="5746000" />
+      <workItem from="1555539739973" duration="2004000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Unittests_for_test_student_grades_methods_TestCollectionMethods_test_remove_worst_grade - 2019.04.05 at 22h 46m 20s.xml">
-      <configuration name="Unittests for test_student_grades_methods.TestCollectionMethods.test_remove_worst_grade" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_for_test_student_grades_methods_TestCollectionMethods_test_remove_worst_grade - 2019.04.05 at 22h 47m 21s.xml">
-      <configuration name="Unittests for test_student_grades_methods.TestCollectionMethods.test_remove_worst_grade" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_for_test_student_grades_methods_TestCollectionMethods_test_remove_worst_grade - 2019.04.05 at 22h 47m 28s.xml">
-      <configuration name="Unittests for test_student_grades_methods.TestCollectionMethods.test_remove_worst_grade" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_for_test_student_grades_methods_TestCollectionMethods_test_remove_worst_grade - 2019.04.05 at 22h 48m 07s.xml">
-      <configuration name="Unittests for test_student_grades_methods.TestCollectionMethods.test_remove_worst_grade" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_for_test_student_grades_methods_TestCollectionMethods_test_calculate_best_grade - 2019.04.16 at 17h 05m 42s.xml">
-      <configuration name="Unittests for test_student_grades_methods.TestCollectionMethods.test_calculate_best_grade" configurationId="tests" />
-    </history-entry>
-    <history-entry file="Unittests_for_test_temperature_methods_TestCollectionMethods_test_calculate_best_grade - 2019.04.16 at 17h 35m 22s.xml">
-      <configuration name="Unittests for test_temperature_methods.TestCollectionMethods.test_calculate_best_grade" configurationId="tests" />
-    </history-entry>
     <history-entry file="Unittests_for_test_student_grades_methods_TestCollectionMethods_test_calculate_best_grade - 2019.04.16 at 17h 35m 50s.xml">
       <configuration name="Unittests for test_student_grades_methods.TestCollectionMethods.test_calculate_best_grade" configurationId="tests" />
     </history-entry>
@@ -331,19 +312,38 @@
     <history-entry file="Unittests_for_test_temperature_methods_TestCollectionMethods_test_DepartamentDes - 2019.04.16 at 18h 57m 08s.xml">
       <configuration name="Unittests for test_temperature_methods.TestCollectionMethods.test_DepartamentDes" configurationId="tests" />
     </history-entry>
+    <history-entry file="Unittests_for_test_temperature_methods_TestCollectionMethods_test_Departamentprom - 2019.04.17 at 17h 41m 11s.xml">
+      <configuration name="Unittests for test_temperature_methods.TestCollectionMethods.test_Departamentprom" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_temperature_methods_TestCollectionMethods_test_Departamentprom - 2019.04.17 at 17h 41m 56s.xml">
+      <configuration name="Unittests for test_temperature_methods.TestCollectionMethods.test_Departamentprom" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_temperature_methods_TestCollectionMethods_test_DepartamentMax - 2019.04.17 at 17h 43m 43s.xml">
+      <configuration name="Unittests for test_temperature_methods.TestCollectionMethods.test_DepartamentMax" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_temperature_methods_TestCollectionMethods_test_DepartamentMaximus - 2019.04.17 at 17h 44m 20s.xml">
+      <configuration name="Unittests for test_temperature_methods.TestCollectionMethods.test_DepartamentMaximus" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_temperature_methods_TestCollectionMethods_test_DepartamentDes - 2019.04.17 at 17h 44m 57s.xml">
+      <configuration name="Unittests for test_temperature_methods.TestCollectionMethods.test_DepartamentDes" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_temperature_methods_TestCollectionMethods_test_DepartamentDes - 2019.04.17 at 17h 45m 18s.xml">
+      <configuration name="Unittests for test_temperature_methods.TestCollectionMethods.test_DepartamentDes" configurationId="tests" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5199000" />
+    <option name="totallyTimeSpent" value="7750000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.25718608" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25718608" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.7217676" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.690671" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39858156" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -431,41 +431,41 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/custom_functions/temperature_methods.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="22" lean-forward="true" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/pruieba de juanpa.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2550">
-          <caret line="150" lean-forward="true" selection-start-line="150" selection-end-line="150" />
+          <caret line="150" selection-start-line="150" selection-end-line="150" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/test/test_student_grades_methods.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="8" lean-forward="true" selection-start-column="8" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/test_temperature_methods.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="26" column="19" lean-forward="true" selection-start-line="26" selection-start-column="19" selection-end-line="26" selection-end-column="19" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
+          <caret column="8" selection-start-column="8" selection-end-line="2" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/main/laboratory.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="40">
-          <caret line="105" column="44" lean-forward="true" selection-start-line="105" selection-start-column="44" selection-end-line="105" selection-end-column="44" />
+        <state relative-caret-position="323">
+          <caret line="22" column="43" lean-forward="true" selection-start-line="22" selection-start-column="43" selection-end-line="22" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/custom_functions/temperature_methods.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="19" lean-forward="true" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/test_temperature_methods.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="27" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
