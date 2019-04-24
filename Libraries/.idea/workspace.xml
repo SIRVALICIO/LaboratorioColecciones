@@ -4,7 +4,9 @@
     <bookmark url="file://$PROJECT_DIR$/custom_functions/student_grades_methods.py" description="return final_grade" line="36" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a2bfba67-7284-454d-947b-17c99784ec08" name="Default Changelist" comment="" />
+    <list default="true" id="a2bfba67-7284-454d-947b-17c99784ec08" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,8 +38,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/main/laboratory.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="325">
-              <caret line="125" lean-forward="true" selection-start-line="125" selection-end-line="125" />
+            <state relative-caret-position="2125">
+              <caret line="125" selection-start-line="125" selection-end-line="125" />
             </state>
           </provider>
         </entry>
@@ -51,11 +53,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/pruieba de juanpa.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="306">
-              <caret line="18" column="30" lean-forward="true" selection-start-line="18" selection-start-column="30" selection-end-line="19" />
+              <caret line="18" column="30" selection-start-line="18" selection-start-column="30" selection-end-line="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/Mayor y minimo.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-line="5" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -69,11 +80,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/test/test_temperature_methods.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="459">
-              <caret line="27" lean-forward="true" selection-end-line="27" />
+            <state relative-caret-position="68">
+              <caret line="4" selection-start-line="4" selection-end-line="27" />
               <folding>
                 <element signature="e#0#15#0" expanded="true" />
               </folding>
@@ -107,13 +118,14 @@
         <option value="$PROJECT_DIR$/main/index.py" />
         <option value="$PROJECT_DIR$/custom_functions/student_grades_methods.py" />
         <option value="$PROJECT_DIR$/custom_functions/temperature_methods.py" />
-        <option value="$PROJECT_DIR$/test/test_temperature_methods.py" />
         <option value="$PROJECT_DIR$/main/laboratory.py" />
         <option value="$APPLICATION_CONFIG_DIR$/scratches/pruieba de juanpa.py" />
+        <option value="$PROJECT_DIR$/test/test_temperature_methods.py" />
+        <option value="$APPLICATION_CONFIG_DIR$/scratches/Mayor y minimo.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="-23" />
     <option name="y" value="14" />
     <option name="width" value="1386" />
@@ -125,6 +137,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -136,11 +149,6 @@
               <item name="Libraries" type="b2602c69:ProjectViewProjectNode" />
               <item name="Libraries" type="462c0819:PsiDirectoryNode" />
               <item name="custom_functions" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Libraries" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Libraries" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Libraries" type="b2602c69:ProjectViewProjectNode" />
@@ -160,7 +168,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -293,6 +300,9 @@
       <updated>1554300900612</updated>
       <workItem from="1555452303395" duration="5746000" />
       <workItem from="1555539739973" duration="5715000" />
+      <workItem from="1555709501392" duration="2098000" />
+      <workItem from="1556111209079" duration="68000" />
+      <workItem from="1556118782634" duration="1678000" />
     </task>
     <servers />
   </component>
@@ -329,13 +339,12 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11461000" />
+    <option name="totallyTimeSpent" value="15305000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25718608" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2685325" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -428,20 +437,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/test_student_grades_methods.py">
+    <entry file="file://$PROJECT_DIR$/main/laboratory.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="8" selection-start-column="8" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/test_temperature_methods.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="27" lean-forward="true" selection-end-line="27" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="2125">
+          <caret line="125" selection-start-line="125" selection-end-line="125" />
         </state>
       </provider>
     </entry>
@@ -452,17 +451,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/main/laboratory.py">
+    <entry file="file://$PROJECT_DIR$/test/test_student_grades_methods.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="325">
-          <caret line="125" lean-forward="true" selection-start-line="125" selection-end-line="125" />
+        <state>
+          <caret column="8" selection-start-column="8" selection-end-line="2" />
         </state>
       </provider>
     </entry>
     <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/pruieba de juanpa.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
-          <caret line="18" column="30" lean-forward="true" selection-start-line="18" selection-start-column="30" selection-end-line="19" />
+          <caret line="18" column="30" selection-start-line="18" selection-start-column="30" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/Mayor y minimo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="5" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/test_temperature_methods.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" selection-start-line="4" selection-end-line="27" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
